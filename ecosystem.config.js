@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: 'bait-dashboard',
+            name: 'bait-management-panel',
             script: 'node_modules/next/dist/bin/next',
             args: 'start -p 4000',
             cwd: './',
